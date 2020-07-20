@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-16T03:28:17.087Z</updated>
+  <updated>2020-07-20T07:57:43.865Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>newpapername</title>
+    <link href="http://yoursite.com/2020/07/20/newpapername/"/>
+    <id>http://yoursite.com/2020/07/20/newpapername/</id>
+    <published>2020-07-20T07:51:56.000Z</published>
+    <updated>2020-07-20T07:57:43.865Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://hexo.io/" target="_blank" rel="noopener">����</a>newpapername����<br><a href="D:\tp5\public\static\image\1.jpg">ͼƬ</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;����&lt;/a&gt;newpapername����&lt;br&gt;&lt;a href=&quot;D:\tp5\public\static\image\1.jpg&quot;&gt;ͼƬ&lt;/a&gt;&lt;/
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
